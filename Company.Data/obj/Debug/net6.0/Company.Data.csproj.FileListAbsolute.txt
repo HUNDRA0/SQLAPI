@@ -1,0 +1,51 @@
+C:\Users\jacob\Downloads\Nytt projekt sql\Nytt projekt sql\Company.Data\obj\Debug\net6.0\Company.Data.csproj.AssemblyReference.cache
+C:\Users\jacob\Downloads\Nytt projekt sql\Nytt projekt sql\Company.Data\obj\Debug\net6.0\Company.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\Downloads\Nytt projekt sql\Nytt projekt sql\Company.Data\obj\Debug\net6.0\Company.Data.AssemblyInfoInputs.cache
+C:\Users\jacob\Downloads\Nytt projekt sql\Nytt projekt sql\Company.Data\obj\Debug\net6.0\Company.Data.AssemblyInfo.cs
+C:\Users\jacob\Downloads\Nytt projekt sql\Nytt projekt sql\Company.Data\obj\Debug\net6.0\Company.Data.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Downloads\Nytt projekt sql\Nytt projekt sql\Company.Data\bin\Debug\net6.0\Company.Data.deps.json
+C:\Users\jacob\Downloads\Nytt projekt sql\Nytt projekt sql\Company.Data\bin\Debug\net6.0\Company.Data.runtimeconfig.json
+C:\Users\jacob\Downloads\Nytt projekt sql\Nytt projekt sql\Company.Data\bin\Debug\net6.0\Company.Data.dll
+C:\Users\jacob\Downloads\Nytt projekt sql\Nytt projekt sql\Company.Data\bin\Debug\net6.0\Company.Data.pdb
+C:\Users\jacob\Downloads\Nytt projekt sql\Nytt projekt sql\Company.Data\bin\Debug\net6.0\Company.Common.dll
+C:\Users\jacob\Downloads\Nytt projekt sql\Nytt projekt sql\Company.Data\bin\Debug\net6.0\Company.Common.pdb
+C:\Users\jacob\Downloads\Nytt projekt sql\Nytt projekt sql\Company.Data\obj\Debug\net6.0\Company.Data.csproj.CopyComplete
+C:\Users\jacob\Downloads\Nytt projekt sql\Nytt projekt sql\Company.Data\obj\Debug\net6.0\Company.Data.dll
+C:\Users\jacob\Downloads\Nytt projekt sql\Nytt projekt sql\Company.Data\obj\Debug\net6.0\refint\Company.Data.dll
+C:\Users\jacob\Downloads\Nytt projekt sql\Nytt projekt sql\Company.Data\obj\Debug\net6.0\Company.Data.pdb
+C:\Users\jacob\Downloads\Nytt projekt sql\Nytt projekt sql\Company.Data\obj\Debug\net6.0\Company.Data.genruntimeconfig.cache
+C:\Users\jacob\Downloads\Nytt projekt sql\Nytt projekt sql\Company.Data\obj\Debug\net6.0\ref\Company.Data.dll
+C:\Users\Mars\Desktop\Nyare än nytt projekt sql\Nyare än nytt projekt sql\Nytt projekt sql\Company.Data\bin\Debug\net6.0\Company.Data.deps.json
+C:\Users\Mars\Desktop\Nyare än nytt projekt sql\Nyare än nytt projekt sql\Nytt projekt sql\Company.Data\bin\Debug\net6.0\Company.Data.runtimeconfig.json
+C:\Users\Mars\Desktop\Nyare än nytt projekt sql\Nyare än nytt projekt sql\Nytt projekt sql\Company.Data\bin\Debug\net6.0\Company.Data.dll
+C:\Users\Mars\Desktop\Nyare än nytt projekt sql\Nyare än nytt projekt sql\Nytt projekt sql\Company.Data\bin\Debug\net6.0\Company.Data.pdb
+C:\Users\Mars\Desktop\Nyare än nytt projekt sql\Nyare än nytt projekt sql\Nytt projekt sql\Company.Data\bin\Debug\net6.0\Company.Common.dll
+C:\Users\Mars\Desktop\Nyare än nytt projekt sql\Nyare än nytt projekt sql\Nytt projekt sql\Company.Data\bin\Debug\net6.0\Company.Common.pdb
+C:\Users\Mars\Desktop\Nyare än nytt projekt sql\Nyare än nytt projekt sql\Nytt projekt sql\Company.Data\obj\Debug\net6.0\Company.Data.csproj.AssemblyReference.cache
+C:\Users\Mars\Desktop\Nyare än nytt projekt sql\Nyare än nytt projekt sql\Nytt projekt sql\Company.Data\obj\Debug\net6.0\Company.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mars\Desktop\Nyare än nytt projekt sql\Nyare än nytt projekt sql\Nytt projekt sql\Company.Data\obj\Debug\net6.0\Company.Data.AssemblyInfoInputs.cache
+C:\Users\Mars\Desktop\Nyare än nytt projekt sql\Nyare än nytt projekt sql\Nytt projekt sql\Company.Data\obj\Debug\net6.0\Company.Data.AssemblyInfo.cs
+C:\Users\Mars\Desktop\Nyare än nytt projekt sql\Nyare än nytt projekt sql\Nytt projekt sql\Company.Data\obj\Debug\net6.0\Company.Data.csproj.CoreCompileInputs.cache
+C:\Users\Mars\Desktop\Nyare än nytt projekt sql\Nyare än nytt projekt sql\Nytt projekt sql\Company.Data\obj\Debug\net6.0\Company.Data.csproj.CopyComplete
+C:\Users\Mars\Desktop\Nyare än nytt projekt sql\Nyare än nytt projekt sql\Nytt projekt sql\Company.Data\obj\Debug\net6.0\Company.Data.dll
+C:\Users\Mars\Desktop\Nyare än nytt projekt sql\Nyare än nytt projekt sql\Nytt projekt sql\Company.Data\obj\Debug\net6.0\refint\Company.Data.dll
+C:\Users\Mars\Desktop\Nyare än nytt projekt sql\Nyare än nytt projekt sql\Nytt projekt sql\Company.Data\obj\Debug\net6.0\Company.Data.pdb
+C:\Users\Mars\Desktop\Nyare än nytt projekt sql\Nyare än nytt projekt sql\Nytt projekt sql\Company.Data\obj\Debug\net6.0\Company.Data.genruntimeconfig.cache
+C:\Users\Mars\Desktop\Nyare än nytt projekt sql\Nyare än nytt projekt sql\Nytt projekt sql\Company.Data\obj\Debug\net6.0\ref\Company.Data.dll
+C:\Users\Mars\Desktop\SQL2ProjektNy\SQL2Projekt-main\Nytt projekt sql\Company.Data\bin\Debug\net6.0\Company.Data.deps.json
+C:\Users\Mars\Desktop\SQL2ProjektNy\SQL2Projekt-main\Nytt projekt sql\Company.Data\bin\Debug\net6.0\Company.Data.runtimeconfig.json
+C:\Users\Mars\Desktop\SQL2ProjektNy\SQL2Projekt-main\Nytt projekt sql\Company.Data\bin\Debug\net6.0\Company.Data.dll
+C:\Users\Mars\Desktop\SQL2ProjektNy\SQL2Projekt-main\Nytt projekt sql\Company.Data\bin\Debug\net6.0\Company.Data.pdb
+C:\Users\Mars\Desktop\SQL2ProjektNy\SQL2Projekt-main\Nytt projekt sql\Company.Data\bin\Debug\net6.0\Company.Common.dll
+C:\Users\Mars\Desktop\SQL2ProjektNy\SQL2Projekt-main\Nytt projekt sql\Company.Data\bin\Debug\net6.0\Company.Common.pdb
+C:\Users\Mars\Desktop\SQL2ProjektNy\SQL2Projekt-main\Nytt projekt sql\Company.Data\obj\Debug\net6.0\Company.Data.csproj.AssemblyReference.cache
+C:\Users\Mars\Desktop\SQL2ProjektNy\SQL2Projekt-main\Nytt projekt sql\Company.Data\obj\Debug\net6.0\Company.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mars\Desktop\SQL2ProjektNy\SQL2Projekt-main\Nytt projekt sql\Company.Data\obj\Debug\net6.0\Company.Data.AssemblyInfoInputs.cache
+C:\Users\Mars\Desktop\SQL2ProjektNy\SQL2Projekt-main\Nytt projekt sql\Company.Data\obj\Debug\net6.0\Company.Data.AssemblyInfo.cs
+C:\Users\Mars\Desktop\SQL2ProjektNy\SQL2Projekt-main\Nytt projekt sql\Company.Data\obj\Debug\net6.0\Company.Data.csproj.CoreCompileInputs.cache
+C:\Users\Mars\Desktop\SQL2ProjektNy\SQL2Projekt-main\Nytt projekt sql\Company.Data\obj\Debug\net6.0\Company.Data.csproj.CopyComplete
+C:\Users\Mars\Desktop\SQL2ProjektNy\SQL2Projekt-main\Nytt projekt sql\Company.Data\obj\Debug\net6.0\Company.Data.dll
+C:\Users\Mars\Desktop\SQL2ProjektNy\SQL2Projekt-main\Nytt projekt sql\Company.Data\obj\Debug\net6.0\refint\Company.Data.dll
+C:\Users\Mars\Desktop\SQL2ProjektNy\SQL2Projekt-main\Nytt projekt sql\Company.Data\obj\Debug\net6.0\Company.Data.pdb
+C:\Users\Mars\Desktop\SQL2ProjektNy\SQL2Projekt-main\Nytt projekt sql\Company.Data\obj\Debug\net6.0\Company.Data.genruntimeconfig.cache
+C:\Users\Mars\Desktop\SQL2ProjektNy\SQL2Projekt-main\Nytt projekt sql\Company.Data\obj\Debug\net6.0\ref\Company.Data.dll
